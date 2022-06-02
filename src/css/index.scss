@@ -1,0 +1,13 @@
+@import './normalize/normalize.scss';
+@import './components/button.scss';
+
+.bg {
+	background: $mainBg;
+	padding-bottom: 5rem;
+}
+
+//Header
+@import '../components/header.scss';
+
+//CreateX
+@import '../css/components/createx.scss';
